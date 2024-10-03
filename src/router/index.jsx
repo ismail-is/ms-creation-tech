@@ -202,6 +202,6 @@ export const router = createBrowserRouter(
 		},
 	],
 	{
-		basename: "/ms",
+		basename: "/ms-creation-tech",
 	}
 );
